@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vinit;Software+Developer;Problem+Solver;Open+Source+Enthusiast)](https://github.com/Vinit09-M)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vinit;AI+Security+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://github.com/Vinit09-M)
 
 [![GitHub followers](https://img.shields.io/github/followers/Vinit09-M?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/Vinit09-M?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Vinit09-M?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/Vinit09-M)
